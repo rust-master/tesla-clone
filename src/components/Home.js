@@ -65,5 +65,4 @@ export default Home;
 
 const Container = styleds.div`
     height: 100vh;
-    
 `;
